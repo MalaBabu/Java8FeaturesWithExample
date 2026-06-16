@@ -10,5 +10,6 @@ public class TestClass {
 		System.out.println(car.speed());
 		System.out.println(car.type());
 		car.start(); // Vehicle is started 
+		
 	}
 }
